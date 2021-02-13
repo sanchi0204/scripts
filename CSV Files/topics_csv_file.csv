@@ -1,0 +1,43 @@
+name,bg_color,img_link
+Array,0xFFDCDBFF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Farray.svg?alt=media&token=298ba07a-26c9-4f61-add4-1800e50ef7ae
+Dynamic Programming,0xFFD4E8FC,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FdyanamicProgramming.svg?alt=media&token=b94cb1c4-16f8-45c5-941b-f06576427745
+String,0xFFCDF17B,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fstrings.svg?alt=media&token=78afc378-4cbd-4808-a5ae-2409de40304f
+Math,0xFFFBE7C6,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fmaths.svg?alt=media&token=1ac8b729-41e9-4088-989d-055c5cf51fd9
+Tree,0xFFFFE5C8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Ftree.svg?alt=media&token=44288f64-82e3-4630-8fa7-b3c76736ca1a
+Depth-first Search,0xFFFFEEEE,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fgraph.svg?alt=media&token=e03dcc06-ae49-4293-b701-09c53c5fd463
+Hash Table,0xFFD5FFE2,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fhashing.svg?alt=media&token=ff702e8a-5fcf-463d-872b-8a765b97626b
+Greedy,0xFFF2E6EF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fgreedy.svg?alt=media&token=7484581b-9fcd-43cf-a16c-43c078eb101f
+Binary Search,0xFFEFD4FF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fbinarysearch.svg?alt=media&token=679530a1-1922-4cd1-8116-50e4aa05916f
+Breadth-first Search,0xFFFFEEEE,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fgraph.svg?alt=media&token=e03dcc06-ae49-4293-b701-09c53c5fd463
+Sort,0xFFECFDF1,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fsort.svg?alt=media&token=1f56fd09-518c-4d4d-a34a-0c03368d4bcf
+Two Pointers,0xFFDEEFFF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FtwoPointers.svg?alt=media&token=c9c1ea3c-9b05-4d74-802e-29ca46bc03a9
+Backtracking,0xFFFFEEEE,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fbacktracking.svg?alt=media&token=587cba29-b0de-4a7a-be64-1dbb5467e76c
+Stack,0xFFEECFFF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fstack.svg?alt=media&token=e66db3fb-c400-4495-a17d-14fd3074cbc1
+Design,0xFFB0FFEF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fdesign.svg?alt=media&token=e2c873a5-a1a0-4b68-aabf-81b63f9c344e
+Bit Manipulation,0xFFD5EBFE,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FbitManipulation.svg?alt=media&token=ee8a5e89-46ed-48fb-9c8f-411b8e350bf6
+Graph,0xFFFFEEEE,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fgraph.svg?alt=media&token=e03dcc06-ae49-4293-b701-09c53c5fd463
+Linked List,0xFFDAFFC8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FlinkedList.svg?alt=media&token=8c4f4c91-6683-4418-8b2b-0032cfffaaf8
+Heap,0xFFFFE5C8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Ftree.svg?alt=media&token=44288f64-82e3-4630-8fa7-b3c76736ca1a
+Union Find,0xFFD8ECFF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Funion.svg?alt=media&token=1f395c72-0052-4357-bda7-3a95cfd11075
+Recursion,0xFFF6D2FF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Frecursion.svg?alt=media&token=f974a7c6-8535-42f3-91be-c0cc7812d67a
+Sliding Window,0xFFD9FFE3,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FslidingWindow.svg?alt=media&token=369320fe-0d51-4bb1-b128-b23c4e86f0df
+Divide and Conquer,0xFFFFFAE8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FdivideAndConquer.svg?alt=media&token=13780180-f014-4e9d-a30e-8d23bc96f4c2
+Trie,0xFFFFE5C8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Ftree.svg?alt=media&token=44288f64-82e3-4630-8fa7-b3c76736ca1a
+Segment Tree,0xFFFFE5C8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Ftree.svg?alt=media&token=44288f64-82e3-4630-8fa7-b3c76736ca1a
+Ordered Map,0xFFFFE5C8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Ftree.svg?alt=media&token=44288f64-82e3-4630-8fa7-b3c76736ca1a
+Queue,0xFFE5F2FF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fqueue.svg?alt=media&token=89e40194-2cac-4c0e-9cd7-05fd5a6514e8
+Geometry,0xFFDCFFF8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fgeometry.svg?alt=media&token=4b380796-dfee-407f-8710-f8941f0c8ffc
+Minimax,0xFFF6D2FF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fbacktracking.svg?alt=media&token=587cba29-b0de-4a7a-be64-1dbb5467e76c
+Binary Indexed Tree,0xFFFFE5C8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Ftree.svg?alt=media&token=44288f64-82e3-4630-8fa7-b3c76736ca1a
+Brainteaser,0xFFD1DEE9,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FbrainTeaser.svg?alt=media&token=a7ed134d-40d3-4eab-8346-a9c8952fa203
+Line Sweep,0xFFF2C3D2,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FlineSweep.svg?alt=media&token=50a60c45-2ec0-41c2-9113-fa61a8c5239c
+Random,0xFFE8E8E8,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Frandom.svg?alt=media&token=49def88d-6750-4bb5-b255-2082ba0c6754
+Topological Sort,0xFFFFEEEE,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fgraph.svg?alt=media&token=e03dcc06-ae49-4293-b701-09c53c5fd463
+Binary Search Tree,0xFFF9EEB4,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2FbinarySearchTree.svg?alt=media&token=7ccc2813-8361-40d4-9eb1-e41820141932
+Dequeue,0xFFD7FFC4,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fdequeue.svg?alt=media&token=3b3c5696-77c7-490e-985a-f608805207dd
+Rolling Hash,0xFFCDF17B,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fstrings.svg?alt=media&token=78afc378-4cbd-4808-a5ae-2409de40304f
+Suffix Array,0xFFDCDBFF,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Farray.svg?alt=media&token=298ba07a-26c9-4f61-add4-1800e50ef7ae
+Rejection Sampling,0xFFFFD9B5,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fstats.svg?alt=media&token=c78c57b2-20dc-4ac6-af08-102790943ea8
+Reservoir Sampling,0xFFFFD9B5,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fstats.svg?alt=media&token=c78c57b2-20dc-4ac6-af08-102790943ea8
+Memoization,0xFFD4E8FC,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Fstats.svg?alt=media&token=c78c57b2-20dc-4ac6-af08-102790943ea8
+OOP,0xFFFFCFFC,https://firebasestorage.googleapis.com/v0/b/doraemon-3dc2a.appspot.com/o/Topics_Images%2Foops.svg?alt=media&token=4ab8262b-3535-4991-96b1-a53b070cc1d6
